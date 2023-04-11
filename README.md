@@ -1,4 +1,4 @@
-SkillBridge-v2.0
+
 In today's world, finding a job can be a challenging task, especially for those who are unskilled or uneducated. The current pandemic situation has worsened the unemployment scenario, and people are struggling to find employment opportunities. That is where my Android application comes in - it provides a platform that connects job providers with job seekers, making the entire process of hiring much simpler.
 
 The application is built using Firebase and Flutter, which are two of the most popular and powerful technologies available in the market. Firebase provides a secure and reliable backend infrastructure for the application, while Flutter allows for the creation of beautiful and efficient user interfaces. Together, they make for a great combination that allows for the development of robust and feature-rich applications.
